@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "1p/nSVUqr+Q=",
+  "success": true,
+  "projectFilePath": "/home/zamir-estrada/Documents/C#/Projects/ClientManagement.Application/ClientManagement.Application.csproj",
+  "expectedPackageFiles": [
+    "/home/zamir-estrada/.nuget/packages/microsoft.netcore.app.ref/8.0.21/microsoft.netcore.app.ref.8.0.21.nupkg.sha512",
+    "/home/zamir-estrada/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.21/microsoft.aspnetcore.app.ref.8.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}
