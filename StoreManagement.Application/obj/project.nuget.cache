@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "SDDuru5doCk=",
+  "success": true,
+  "projectFilePath": "/home/zamir-estrada/Documents/C#/Projects/StoreManagement.Application/StoreManagement.Application.csproj",
+  "expectedPackageFiles": [
+    "/home/zamir-estrada/.nuget/packages/microsoft.netcore.app.ref/8.0.21/microsoft.netcore.app.ref.8.0.21.nupkg.sha512",
+    "/home/zamir-estrada/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.21/microsoft.aspnetcore.app.ref.8.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}
