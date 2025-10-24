@@ -1,0 +1,16 @@
+/home/zamir-estrada/Documents/C#/Projects/StoreManagement.Application/bin/Debug/net8.0/StoreManagement.Application.deps.json
+/home/zamir-estrada/Documents/C#/Projects/StoreManagement.Application/bin/Debug/net8.0/StoreManagement.Application.dll
+/home/zamir-estrada/Documents/C#/Projects/StoreManagement.Application/bin/Debug/net8.0/StoreManagement.Application.pdb
+/home/zamir-estrada/Documents/C#/Projects/StoreManagement.Application/bin/Debug/net8.0/StoreManagement.Domain.dll
+/home/zamir-estrada/Documents/C#/Projects/StoreManagement.Application/bin/Debug/net8.0/StoreManagement.Domain.pdb
+/home/zamir-estrada/Documents/C#/Projects/StoreManagement.Application/obj/Debug/net8.0/StoreManagement.Application.csproj.AssemblyReference.cache
+/home/zamir-estrada/Documents/C#/Projects/StoreManagement.Application/obj/Debug/net8.0/StoreManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/zamir-estrada/Documents/C#/Projects/StoreManagement.Application/obj/Debug/net8.0/StoreManagement.Application.AssemblyInfoInputs.cache
+/home/zamir-estrada/Documents/C#/Projects/StoreManagement.Application/obj/Debug/net8.0/StoreManagement.Application.AssemblyInfo.cs
+/home/zamir-estrada/Documents/C#/Projects/StoreManagement.Application/obj/Debug/net8.0/StoreManagement.Application.csproj.CoreCompileInputs.cache
+/home/zamir-estrada/Documents/C#/Projects/StoreManagement.Application/obj/Debug/net8.0/StoreManagement.Application.sourcelink.json
+/home/zamir-estrada/Documents/C#/Projects/StoreManagement.Application/obj/Debug/net8.0/StoreManagement.Application.csproj.CopyComplete
+/home/zamir-estrada/Documents/C#/Projects/StoreManagement.Application/obj/Debug/net8.0/StoreManagement.Application.dll
+/home/zamir-estrada/Documents/C#/Projects/StoreManagement.Application/obj/Debug/net8.0/refint/StoreManagement.Application.dll
+/home/zamir-estrada/Documents/C#/Projects/StoreManagement.Application/obj/Debug/net8.0/StoreManagement.Application.pdb
+/home/zamir-estrada/Documents/C#/Projects/StoreManagement.Application/obj/Debug/net8.0/ref/StoreManagement.Application.dll
