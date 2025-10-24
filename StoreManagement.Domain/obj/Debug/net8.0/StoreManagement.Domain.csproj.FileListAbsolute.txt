@@ -1,0 +1,12 @@
+/home/zamir-estrada/Documents/C#/Projects/StoreManagement.Domain/bin/Debug/net8.0/StoreManagement.Domain.deps.json
+/home/zamir-estrada/Documents/C#/Projects/StoreManagement.Domain/bin/Debug/net8.0/StoreManagement.Domain.dll
+/home/zamir-estrada/Documents/C#/Projects/StoreManagement.Domain/bin/Debug/net8.0/StoreManagement.Domain.pdb
+/home/zamir-estrada/Documents/C#/Projects/StoreManagement.Domain/obj/Debug/net8.0/StoreManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/zamir-estrada/Documents/C#/Projects/StoreManagement.Domain/obj/Debug/net8.0/StoreManagement.Domain.AssemblyInfoInputs.cache
+/home/zamir-estrada/Documents/C#/Projects/StoreManagement.Domain/obj/Debug/net8.0/StoreManagement.Domain.AssemblyInfo.cs
+/home/zamir-estrada/Documents/C#/Projects/StoreManagement.Domain/obj/Debug/net8.0/StoreManagement.Domain.csproj.CoreCompileInputs.cache
+/home/zamir-estrada/Documents/C#/Projects/StoreManagement.Domain/obj/Debug/net8.0/StoreManagement.Domain.sourcelink.json
+/home/zamir-estrada/Documents/C#/Projects/StoreManagement.Domain/obj/Debug/net8.0/StoreManagement.Domain.dll
+/home/zamir-estrada/Documents/C#/Projects/StoreManagement.Domain/obj/Debug/net8.0/refint/StoreManagement.Domain.dll
+/home/zamir-estrada/Documents/C#/Projects/StoreManagement.Domain/obj/Debug/net8.0/StoreManagement.Domain.pdb
+/home/zamir-estrada/Documents/C#/Projects/StoreManagement.Domain/obj/Debug/net8.0/ref/StoreManagement.Domain.dll

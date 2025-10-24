@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "StoreManagement.Application/1.0.0": {
+        "dependencies": {
+          "StoreManagement.Domain": "1.0.0"
+        },
+        "runtime": {
+          "StoreManagement.Application.dll": {}
+        }
+      },
+      "StoreManagement.Domain/1.0.0": {
+        "runtime": {
+          "StoreManagement.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StoreManagement.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StoreManagement.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
