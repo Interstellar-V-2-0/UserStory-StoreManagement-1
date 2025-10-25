@@ -12,7 +12,7 @@ using StoreManagement.Infrastructure.Data;
 namespace StoreManagement.Infrastructure.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20251023184836_InitialCreate")]
+    [Migration("20251024191651_InitialCreate")]
     partial class InitialCreate
     {
         /// <inheritdoc />

@@ -16,7 +16,10 @@
       },
       "StoreManagement.Domain/1.0.0": {
         "runtime": {
-          "StoreManagement.Domain.dll": {}
+          "StoreManagement.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

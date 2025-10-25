@@ -10,3 +10,15 @@
 /home/zamir-estrada/Documents/C#/Projects/StoreManagement.Domain/obj/Debug/net8.0/refint/StoreManagement.Domain.dll
 /home/zamir-estrada/Documents/C#/Projects/StoreManagement.Domain/obj/Debug/net8.0/StoreManagement.Domain.pdb
 /home/zamir-estrada/Documents/C#/Projects/StoreManagement.Domain/obj/Debug/net8.0/ref/StoreManagement.Domain.dll
+C:\Users\PC\OneDrive\Escritorio\proyecto\UserStory-StoreManagement-1\StoreManagement.Domain\bin\Debug\net8.0\StoreManagement.Domain.deps.json
+C:\Users\PC\OneDrive\Escritorio\proyecto\UserStory-StoreManagement-1\StoreManagement.Domain\bin\Debug\net8.0\StoreManagement.Domain.dll
+C:\Users\PC\OneDrive\Escritorio\proyecto\UserStory-StoreManagement-1\StoreManagement.Domain\bin\Debug\net8.0\StoreManagement.Domain.pdb
+C:\Users\PC\OneDrive\Escritorio\proyecto\UserStory-StoreManagement-1\StoreManagement.Domain\obj\Debug\net8.0\StoreManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive\Escritorio\proyecto\UserStory-StoreManagement-1\StoreManagement.Domain\obj\Debug\net8.0\StoreManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Escritorio\proyecto\UserStory-StoreManagement-1\StoreManagement.Domain\obj\Debug\net8.0\StoreManagement.Domain.AssemblyInfo.cs
+C:\Users\PC\OneDrive\Escritorio\proyecto\UserStory-StoreManagement-1\StoreManagement.Domain\obj\Debug\net8.0\StoreManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Escritorio\proyecto\UserStory-StoreManagement-1\StoreManagement.Domain\obj\Debug\net8.0\StoreManagement.Domain.sourcelink.json
+C:\Users\PC\OneDrive\Escritorio\proyecto\UserStory-StoreManagement-1\StoreManagement.Domain\obj\Debug\net8.0\StoreManagement.Domain.dll
+C:\Users\PC\OneDrive\Escritorio\proyecto\UserStory-StoreManagement-1\StoreManagement.Domain\obj\Debug\net8.0\refint\StoreManagement.Domain.dll
+C:\Users\PC\OneDrive\Escritorio\proyecto\UserStory-StoreManagement-1\StoreManagement.Domain\obj\Debug\net8.0\StoreManagement.Domain.pdb
+C:\Users\PC\OneDrive\Escritorio\proyecto\UserStory-StoreManagement-1\StoreManagement.Domain\obj\Debug\net8.0\ref\StoreManagement.Domain.dll
