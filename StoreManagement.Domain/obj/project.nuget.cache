@@ -1,11 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Qwe6fDwzQdk=",
+  "dgSpecHash": "aco9hMNZ2aw=",
   "success": true,
-  "projectFilePath": "/home/zamir-estrada/Documents/C#/Projects/StoreManagement.Domain/StoreManagement.Domain.csproj",
-  "expectedPackageFiles": [
-    "/home/zamir-estrada/.nuget/packages/microsoft.netcore.app.ref/8.0.21/microsoft.netcore.app.ref.8.0.21.nupkg.sha512",
-    "/home/zamir-estrada/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.21/microsoft.aspnetcore.app.ref.8.0.21.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\PC\\OneDrive\\Escritorio\\proyecto\\UserStory-StoreManagement-1\\StoreManagement.Domain\\StoreManagement.Domain.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

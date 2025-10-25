@@ -1,5 +1,9 @@
 using Microsoft.EntityFrameworkCore;
+using StoreManagement.Application.Interfaces;
+using StoreManagement.Application.Services;
+using StoreManagement.Domain.Models;
 using StoreManagement.Infrastructure.Data;
+using StoreManagement.Infrastructure.Data.Reporitories;
 
 var builder = WebApplication.CreateBuilder(args);
 var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
@@ -10,6 +14,8 @@ builder.Services.AddDbContext<AppDbContext>(options =>
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+builder.Services.AddScoped<IOrderDetailsService, OrderDetailsService>();
+builder.Services.AddScoped<IOrderService, OrderService>();
 
 
 
