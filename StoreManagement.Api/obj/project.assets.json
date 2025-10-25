@@ -3426,19 +3426,19 @@
     ]
   },
   "packageFolders": {
-    "/home/zamir-estrada/.nuget/packages/": {}
+    "/home/anamaria-mu-oz/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/zamir-estrada/Documents/C#/Projects/StoreManagement.Api/StoreManagement.Api.csproj",
+      "projectUniqueName": "/home/anamaria-mu-oz/Documentos/UserStory-StoreManagement-1/StoreManagement.Api/StoreManagement.Api.csproj",
       "projectName": "StoreManagement.Api",
-      "projectPath": "/home/zamir-estrada/Documents/C#/Projects/StoreManagement.Api/StoreManagement.Api.csproj",
-      "packagesPath": "/home/zamir-estrada/.nuget/packages/",
-      "outputPath": "/home/zamir-estrada/Documents/C#/Projects/StoreManagement.Api/obj/",
+      "projectPath": "/home/anamaria-mu-oz/Documentos/UserStory-StoreManagement-1/StoreManagement.Api/StoreManagement.Api.csproj",
+      "packagesPath": "/home/anamaria-mu-oz/.nuget/packages/",
+      "outputPath": "/home/anamaria-mu-oz/Documentos/UserStory-StoreManagement-1/StoreManagement.Api/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/zamir-estrada/.nuget/NuGet/NuGet.Config"
+        "/home/anamaria-mu-oz/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -3450,11 +3450,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/home/zamir-estrada/Documents/C#/Projects/StoreManagement.Application/StoreManagement.Application.csproj": {
-              "projectPath": "/home/zamir-estrada/Documents/C#/Projects/StoreManagement.Application/StoreManagement.Application.csproj"
+            "/home/anamaria-mu-oz/Documentos/UserStory-StoreManagement-1/StoreManagement.Application/StoreManagement.Application.csproj": {
+              "projectPath": "/home/anamaria-mu-oz/Documentos/UserStory-StoreManagement-1/StoreManagement.Application/StoreManagement.Application.csproj"
             },
-            "/home/zamir-estrada/Documents/C#/Projects/StoreManagement.Infrastructure/StoreManagement.Infrastructure.csproj": {
-              "projectPath": "/home/zamir-estrada/Documents/C#/Projects/StoreManagement.Infrastructure/StoreManagement.Infrastructure.csproj"
+            "/home/anamaria-mu-oz/Documentos/UserStory-StoreManagement-1/StoreManagement.Infrastructure/StoreManagement.Infrastructure.csproj": {
+              "projectPath": "/home/anamaria-mu-oz/Documentos/UserStory-StoreManagement-1/StoreManagement.Infrastructure/StoreManagement.Infrastructure.csproj"
             }
           }
         }
@@ -3463,13 +3463,7 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
-      },
-      "SdkAnalysisLevel": "9.0.300"
+      }
     },
     "frameworks": {
       "net8.0": {
@@ -3501,20 +3495,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[8.0.21, 8.0.21]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Host.linux-x64",
-            "version": "[8.0.21, 8.0.21]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[8.0.21, 8.0.21]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -3523,7 +3503,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/home/zamir-estrada/.dotnet/sdk/9.0.306/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.121/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
