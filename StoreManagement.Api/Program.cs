@@ -1,27 +1,42 @@
 using Microsoft.EntityFrameworkCore;
 using StoreManagement.Application.Interfaces;
 using StoreManagement.Application.Services;
+using StoreManagement.Domain.Interfaces;
 using StoreManagement.Domain.Models;
 using StoreManagement.Infrastructure.Data;
 using StoreManagement.Infrastructure.Data.Reporitories;
+using StoreManagement.Infrastructure.Seeders; // Seeder
 
 var builder = WebApplication.CreateBuilder(args);
+
+// ===== Cadena de conexión =====
 var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
 
-builder.Services.AddDbContext<AppDbContext>(options => 
+// ===== DbContext con MySQL =====
+builder.Services.AddDbContext<AppDbContext>(options =>
     options.UseMySql(connectionString, ServerVersion.AutoDetect(connectionString)));
-// Add services to the container.
-// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
+
+// ===== Controllers y Swagger =====
+builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
-builder.Services.AddScoped<IOrderDetailsService, OrderDetailsService>();
+
+// ===== Repositories =====
+builder.Services.AddScoped<ICustomerRepository<Customer>, CustomerRepository>();
+builder.Services.AddScoped<IProductRepository<Product>, ProductRepository>();
+builder.Services.AddScoped<IOrderRepository<Order>, OrderRepository>();
+builder.Services.AddScoped<IOrderDetailsRepository<OrderDetails>, OrderDetailsRepository>();
+builder.Services.AddScoped<IOrderStatusRepository<OrderStatus>, OrderStatusRepository>();
+
+// ===== Services =====
+builder.Services.AddScoped<ICustomerService, CustomerService>();
+builder.Services.AddScoped<IProductService, ProductService>();
 builder.Services.AddScoped<IOrderService, OrderService>();
-
-
+builder.Services.AddScoped<IOrderDetailsService, OrderDetailsService>();
 
 var app = builder.Build();
 
-// Configure the HTTP request pipeline.
+// ===== Swagger solo en desarrollo =====
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
@@ -29,30 +44,15 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+app.UseAuthorization();
+app.MapControllers();
 
-var summaries = new[]
+// ===== Seed de datos de prueba =====
+using (var scope = app.Services.CreateScope())
 {
-    "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
-};
-
-app.MapGet("/weatherforecast", () =>
-{
-    var forecast =  Enumerable.Range(1, 5).Select(index =>
-        new WeatherForecast
-        (
-            DateOnly.FromDateTime(DateTime.Now.AddDays(index)),
-            Random.Shared.Next(-20, 55),
-            summaries[Random.Shared.Next(summaries.Length)]
-        ))
-        .ToArray();
-    return forecast;
-})
-.WithName("GetWeatherForecast")
-.WithOpenApi();
-
-app.Run();
-
-record WeatherForecast(DateOnly Date, int TemperatureC, string? Summary)
-{
-    public int TemperatureF => 32 + (int)(TemperatureC / 0.5556);
+    var dbContext = scope.ServiceProvider.GetRequiredService<AppDbContext>();
+    DbSeeder.Seed(dbContext); // Aquí se queman Customers, Products, Orders, etc.
 }
+
+// ===== Ejecuta la app =====
+app.Run();

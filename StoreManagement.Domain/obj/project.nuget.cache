@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aco9hMNZ2aw=",
+  "dgSpecHash": "XZIUS0KfszuVlPYehOiXfswQkop+ug1DEOSL3qpVjxAJ5TUZIoabRhhjHCLawdn876/MQjNJZ6H1vug+vKRahQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\PC\\OneDrive\\Escritorio\\proyecto\\UserStory-StoreManagement-1\\StoreManagement.Domain\\StoreManagement.Domain.csproj",
+  "projectFilePath": "/home/walker-cohorte4/Documentos/C# WInDWalker/UserStory-StoreManagement-1/StoreManagement.Domain/StoreManagement.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PC\\OneDrive\\Escritorio\\proyecto\\UserStory-StoreManagement-1\\StoreManagement.Domain\\StoreManagement.Domain.csproj": {}
+    "/home/walker-cohorte4/Documentos/C# WInDWalker/UserStory-StoreManagement-1/StoreManagement.Domain/StoreManagement.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PC\\OneDrive\\Escritorio\\proyecto\\UserStory-StoreManagement-1\\StoreManagement.Domain\\StoreManagement.Domain.csproj": {
+    "/home/walker-cohorte4/Documentos/C# WInDWalker/UserStory-StoreManagement-1/StoreManagement.Domain/StoreManagement.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC\\OneDrive\\Escritorio\\proyecto\\UserStory-StoreManagement-1\\StoreManagement.Domain\\StoreManagement.Domain.csproj",
+        "projectUniqueName": "/home/walker-cohorte4/Documentos/C# WInDWalker/UserStory-StoreManagement-1/StoreManagement.Domain/StoreManagement.Domain.csproj",
         "projectName": "StoreManagement.Domain",
-        "projectPath": "C:\\Users\\PC\\OneDrive\\Escritorio\\proyecto\\UserStory-StoreManagement-1\\StoreManagement.Domain\\StoreManagement.Domain.csproj",
-        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC\\OneDrive\\Escritorio\\proyecto\\UserStory-StoreManagement-1\\StoreManagement.Domain\\obj\\",
+        "projectPath": "/home/walker-cohorte4/Documentos/C# WInDWalker/UserStory-StoreManagement-1/StoreManagement.Domain/StoreManagement.Domain.csproj",
+        "packagesPath": "/home/walker-cohorte4/.nuget/packages/",
+        "outputPath": "/home/walker-cohorte4/Documentos/C# WInDWalker/UserStory-StoreManagement-1/StoreManagement.Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/walker-cohorte4/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -32,11 +32,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -58,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.415/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.121/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
