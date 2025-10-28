@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PC\\OneDrive\\Escritorio\\proyecto\\UserStory-StoreManagement-1\\StoreManagement.Api\\StoreManagement.Api.csproj": {}
+    "/home/walker-cohorte4/Documentos/C# WInDWalker/UserStory-StoreManagement-1/StoreManagement.Api/StoreManagement.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PC\\OneDrive\\Escritorio\\proyecto\\UserStory-StoreManagement-1\\StoreManagement.Api\\StoreManagement.Api.csproj": {
+    "/home/walker-cohorte4/Documentos/C# WInDWalker/UserStory-StoreManagement-1/StoreManagement.Api/StoreManagement.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC\\OneDrive\\Escritorio\\proyecto\\UserStory-StoreManagement-1\\StoreManagement.Api\\StoreManagement.Api.csproj",
+        "projectUniqueName": "/home/walker-cohorte4/Documentos/C# WInDWalker/UserStory-StoreManagement-1/StoreManagement.Api/StoreManagement.Api.csproj",
         "projectName": "StoreManagement.Api",
-        "projectPath": "C:\\Users\\PC\\OneDrive\\Escritorio\\proyecto\\UserStory-StoreManagement-1\\StoreManagement.Api\\StoreManagement.Api.csproj",
-        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC\\OneDrive\\Escritorio\\proyecto\\UserStory-StoreManagement-1\\StoreManagement.Api\\obj\\",
+        "projectPath": "/home/walker-cohorte4/Documentos/C# WInDWalker/UserStory-StoreManagement-1/StoreManagement.Api/StoreManagement.Api.csproj",
+        "packagesPath": "/home/walker-cohorte4/.nuget/packages/",
+        "outputPath": "/home/walker-cohorte4/Documentos/C# WInDWalker/UserStory-StoreManagement-1/StoreManagement.Api/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/walker-cohorte4/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -26,11 +26,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\PC\\OneDrive\\Escritorio\\proyecto\\UserStory-StoreManagement-1\\StoreManagement.Application\\StoreManagement.Application.csproj": {
-                "projectPath": "C:\\Users\\PC\\OneDrive\\Escritorio\\proyecto\\UserStory-StoreManagement-1\\StoreManagement.Application\\StoreManagement.Application.csproj"
+              "/home/walker-cohorte4/Documentos/C# WInDWalker/UserStory-StoreManagement-1/StoreManagement.Application/StoreManagement.Application.csproj": {
+                "projectPath": "/home/walker-cohorte4/Documentos/C# WInDWalker/UserStory-StoreManagement-1/StoreManagement.Application/StoreManagement.Application.csproj"
               },
-              "C:\\Users\\PC\\OneDrive\\Escritorio\\proyecto\\UserStory-StoreManagement-1\\StoreManagement.Infrastructure\\StoreManagement.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\PC\\OneDrive\\Escritorio\\proyecto\\UserStory-StoreManagement-1\\StoreManagement.Infrastructure\\StoreManagement.Infrastructure.csproj"
+              "/home/walker-cohorte4/Documentos/C# WInDWalker/UserStory-StoreManagement-1/StoreManagement.Infrastructure/StoreManagement.Infrastructure.csproj": {
+                "projectPath": "/home/walker-cohorte4/Documentos/C# WInDWalker/UserStory-StoreManagement-1/StoreManagement.Infrastructure/StoreManagement.Infrastructure.csproj"
               }
             }
           }
@@ -39,11 +39,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -84,21 +79,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.415/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.121/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\PC\\OneDrive\\Escritorio\\proyecto\\UserStory-StoreManagement-1\\StoreManagement.Application\\StoreManagement.Application.csproj": {
+    "/home/walker-cohorte4/Documentos/C# WInDWalker/UserStory-StoreManagement-1/StoreManagement.Application/StoreManagement.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC\\OneDrive\\Escritorio\\proyecto\\UserStory-StoreManagement-1\\StoreManagement.Application\\StoreManagement.Application.csproj",
+        "projectUniqueName": "/home/walker-cohorte4/Documentos/C# WInDWalker/UserStory-StoreManagement-1/StoreManagement.Application/StoreManagement.Application.csproj",
         "projectName": "StoreManagement.Application",
-        "projectPath": "C:\\Users\\PC\\OneDrive\\Escritorio\\proyecto\\UserStory-StoreManagement-1\\StoreManagement.Application\\StoreManagement.Application.csproj",
-        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC\\OneDrive\\Escritorio\\proyecto\\UserStory-StoreManagement-1\\StoreManagement.Application\\obj\\",
+        "projectPath": "/home/walker-cohorte4/Documentos/C# WInDWalker/UserStory-StoreManagement-1/StoreManagement.Application/StoreManagement.Application.csproj",
+        "packagesPath": "/home/walker-cohorte4/.nuget/packages/",
+        "outputPath": "/home/walker-cohorte4/Documentos/C# WInDWalker/UserStory-StoreManagement-1/StoreManagement.Application/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/walker-cohorte4/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -110,8 +105,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\PC\\OneDrive\\Escritorio\\proyecto\\UserStory-StoreManagement-1\\StoreManagement.Domain\\StoreManagement.Domain.csproj": {
-                "projectPath": "C:\\Users\\PC\\OneDrive\\Escritorio\\proyecto\\UserStory-StoreManagement-1\\StoreManagement.Domain\\StoreManagement.Domain.csproj"
+              "/home/walker-cohorte4/Documentos/C# WInDWalker/UserStory-StoreManagement-1/StoreManagement.Domain/StoreManagement.Domain.csproj": {
+                "projectPath": "/home/walker-cohorte4/Documentos/C# WInDWalker/UserStory-StoreManagement-1/StoreManagement.Domain/StoreManagement.Domain.csproj"
               }
             }
           }
@@ -120,11 +115,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -146,21 +136,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.415/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.121/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\PC\\OneDrive\\Escritorio\\proyecto\\UserStory-StoreManagement-1\\StoreManagement.Domain\\StoreManagement.Domain.csproj": {
+    "/home/walker-cohorte4/Documentos/C# WInDWalker/UserStory-StoreManagement-1/StoreManagement.Domain/StoreManagement.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC\\OneDrive\\Escritorio\\proyecto\\UserStory-StoreManagement-1\\StoreManagement.Domain\\StoreManagement.Domain.csproj",
+        "projectUniqueName": "/home/walker-cohorte4/Documentos/C# WInDWalker/UserStory-StoreManagement-1/StoreManagement.Domain/StoreManagement.Domain.csproj",
         "projectName": "StoreManagement.Domain",
-        "projectPath": "C:\\Users\\PC\\OneDrive\\Escritorio\\proyecto\\UserStory-StoreManagement-1\\StoreManagement.Domain\\StoreManagement.Domain.csproj",
-        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC\\OneDrive\\Escritorio\\proyecto\\UserStory-StoreManagement-1\\StoreManagement.Domain\\obj\\",
+        "projectPath": "/home/walker-cohorte4/Documentos/C# WInDWalker/UserStory-StoreManagement-1/StoreManagement.Domain/StoreManagement.Domain.csproj",
+        "packagesPath": "/home/walker-cohorte4/.nuget/packages/",
+        "outputPath": "/home/walker-cohorte4/Documentos/C# WInDWalker/UserStory-StoreManagement-1/StoreManagement.Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/walker-cohorte4/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -178,11 +168,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -204,21 +189,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.415/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.121/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\PC\\OneDrive\\Escritorio\\proyecto\\UserStory-StoreManagement-1\\StoreManagement.Infrastructure\\StoreManagement.Infrastructure.csproj": {
+    "/home/walker-cohorte4/Documentos/C# WInDWalker/UserStory-StoreManagement-1/StoreManagement.Infrastructure/StoreManagement.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC\\OneDrive\\Escritorio\\proyecto\\UserStory-StoreManagement-1\\StoreManagement.Infrastructure\\StoreManagement.Infrastructure.csproj",
+        "projectUniqueName": "/home/walker-cohorte4/Documentos/C# WInDWalker/UserStory-StoreManagement-1/StoreManagement.Infrastructure/StoreManagement.Infrastructure.csproj",
         "projectName": "StoreManagement.Infrastructure",
-        "projectPath": "C:\\Users\\PC\\OneDrive\\Escritorio\\proyecto\\UserStory-StoreManagement-1\\StoreManagement.Infrastructure\\StoreManagement.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC\\OneDrive\\Escritorio\\proyecto\\UserStory-StoreManagement-1\\StoreManagement.Infrastructure\\obj\\",
+        "projectPath": "/home/walker-cohorte4/Documentos/C# WInDWalker/UserStory-StoreManagement-1/StoreManagement.Infrastructure/StoreManagement.Infrastructure.csproj",
+        "packagesPath": "/home/walker-cohorte4/.nuget/packages/",
+        "outputPath": "/home/walker-cohorte4/Documentos/C# WInDWalker/UserStory-StoreManagement-1/StoreManagement.Infrastructure/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/walker-cohorte4/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -230,8 +215,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\PC\\OneDrive\\Escritorio\\proyecto\\UserStory-StoreManagement-1\\StoreManagement.Domain\\StoreManagement.Domain.csproj": {
-                "projectPath": "C:\\Users\\PC\\OneDrive\\Escritorio\\proyecto\\UserStory-StoreManagement-1\\StoreManagement.Domain\\StoreManagement.Domain.csproj"
+              "/home/walker-cohorte4/Documentos/C# WInDWalker/UserStory-StoreManagement-1/StoreManagement.Domain/StoreManagement.Domain.csproj": {
+                "projectPath": "/home/walker-cohorte4/Documentos/C# WInDWalker/UserStory-StoreManagement-1/StoreManagement.Domain/StoreManagement.Domain.csproj"
               }
             }
           }
@@ -240,11 +225,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -282,7 +262,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.415/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.121/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -16,21 +16,39 @@
 /home/zamir-estrada/Documents/C#/Projects/StoreManagement.Infrastructure/obj/Debug/net8.0/StoreManagement.Infrastructure.pdb
 /home/zamir-estrada/Documents/C#/Projects/StoreManagement.Infrastructure/obj/Debug/net8.0/StoreManagement.Infrastructure.genruntimeconfig.cache
 /home/zamir-estrada/Documents/C#/Projects/StoreManagement.Infrastructure/obj/Debug/net8.0/ref/StoreManagement.Infrastructure.dll
-C:\Users\PC\OneDrive\Escritorio\proyecto\UserStory-StoreManagement-1\StoreManagement.Infrastructure\bin\Debug\net8.0\StoreManagement.Infrastructure.deps.json
-C:\Users\PC\OneDrive\Escritorio\proyecto\UserStory-StoreManagement-1\StoreManagement.Infrastructure\bin\Debug\net8.0\StoreManagement.Infrastructure.runtimeconfig.json
-C:\Users\PC\OneDrive\Escritorio\proyecto\UserStory-StoreManagement-1\StoreManagement.Infrastructure\bin\Debug\net8.0\StoreManagement.Infrastructure.dll
-C:\Users\PC\OneDrive\Escritorio\proyecto\UserStory-StoreManagement-1\StoreManagement.Infrastructure\bin\Debug\net8.0\StoreManagement.Infrastructure.pdb
-C:\Users\PC\OneDrive\Escritorio\proyecto\UserStory-StoreManagement-1\StoreManagement.Infrastructure\bin\Debug\net8.0\StoreManagement.Domain.dll
-C:\Users\PC\OneDrive\Escritorio\proyecto\UserStory-StoreManagement-1\StoreManagement.Infrastructure\bin\Debug\net8.0\StoreManagement.Domain.pdb
-C:\Users\PC\OneDrive\Escritorio\proyecto\UserStory-StoreManagement-1\StoreManagement.Infrastructure\obj\Debug\net8.0\StoreManagement.Infrastructure.csproj.AssemblyReference.cache
-C:\Users\PC\OneDrive\Escritorio\proyecto\UserStory-StoreManagement-1\StoreManagement.Infrastructure\obj\Debug\net8.0\StoreManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\PC\OneDrive\Escritorio\proyecto\UserStory-StoreManagement-1\StoreManagement.Infrastructure\obj\Debug\net8.0\StoreManagement.Infrastructure.AssemblyInfoInputs.cache
-C:\Users\PC\OneDrive\Escritorio\proyecto\UserStory-StoreManagement-1\StoreManagement.Infrastructure\obj\Debug\net8.0\StoreManagement.Infrastructure.AssemblyInfo.cs
-C:\Users\PC\OneDrive\Escritorio\proyecto\UserStory-StoreManagement-1\StoreManagement.Infrastructure\obj\Debug\net8.0\StoreManagement.Infrastructure.csproj.CoreCompileInputs.cache
-C:\Users\PC\OneDrive\Escritorio\proyecto\UserStory-StoreManagement-1\StoreManagement.Infrastructure\obj\Debug\net8.0\StoreManagement.Infrastructure.sourcelink.json
-C:\Users\PC\OneDrive\Escritorio\proyecto\UserStory-StoreManagement-1\StoreManagement.Infrastructure\obj\Debug\net8.0\StoreMan.78655C4E.Up2Date
-C:\Users\PC\OneDrive\Escritorio\proyecto\UserStory-StoreManagement-1\StoreManagement.Infrastructure\obj\Debug\net8.0\StoreManagement.Infrastructure.dll
-C:\Users\PC\OneDrive\Escritorio\proyecto\UserStory-StoreManagement-1\StoreManagement.Infrastructure\obj\Debug\net8.0\refint\StoreManagement.Infrastructure.dll
-C:\Users\PC\OneDrive\Escritorio\proyecto\UserStory-StoreManagement-1\StoreManagement.Infrastructure\obj\Debug\net8.0\StoreManagement.Infrastructure.pdb
-C:\Users\PC\OneDrive\Escritorio\proyecto\UserStory-StoreManagement-1\StoreManagement.Infrastructure\obj\Debug\net8.0\StoreManagement.Infrastructure.genruntimeconfig.cache
-C:\Users\PC\OneDrive\Escritorio\proyecto\UserStory-StoreManagement-1\StoreManagement.Infrastructure\obj\Debug\net8.0\ref\StoreManagement.Infrastructure.dll
+C:/Users/PC/OneDrive/Escritorio/proyecto/UserStory-StoreManagement-1/StoreManagement.Infrastructure/bin/Debug/net8.0/StoreManagement.Infrastructure.deps.json
+C:/Users/PC/OneDrive/Escritorio/proyecto/UserStory-StoreManagement-1/StoreManagement.Infrastructure/bin/Debug/net8.0/StoreManagement.Infrastructure.runtimeconfig.json
+C:/Users/PC/OneDrive/Escritorio/proyecto/UserStory-StoreManagement-1/StoreManagement.Infrastructure/bin/Debug/net8.0/StoreManagement.Infrastructure.dll
+C:/Users/PC/OneDrive/Escritorio/proyecto/UserStory-StoreManagement-1/StoreManagement.Infrastructure/bin/Debug/net8.0/StoreManagement.Infrastructure.pdb
+C:/Users/PC/OneDrive/Escritorio/proyecto/UserStory-StoreManagement-1/StoreManagement.Infrastructure/bin/Debug/net8.0/StoreManagement.Domain.dll
+C:/Users/PC/OneDrive/Escritorio/proyecto/UserStory-StoreManagement-1/StoreManagement.Infrastructure/bin/Debug/net8.0/StoreManagement.Domain.pdb
+C:/Users/PC/OneDrive/Escritorio/proyecto/UserStory-StoreManagement-1/StoreManagement.Infrastructure/obj/Debug/net8.0/StoreManagement.Infrastructure.csproj.AssemblyReference.cache
+C:/Users/PC/OneDrive/Escritorio/proyecto/UserStory-StoreManagement-1/StoreManagement.Infrastructure/obj/Debug/net8.0/StoreManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/PC/OneDrive/Escritorio/proyecto/UserStory-StoreManagement-1/StoreManagement.Infrastructure/obj/Debug/net8.0/StoreManagement.Infrastructure.AssemblyInfoInputs.cache
+C:/Users/PC/OneDrive/Escritorio/proyecto/UserStory-StoreManagement-1/StoreManagement.Infrastructure/obj/Debug/net8.0/StoreManagement.Infrastructure.AssemblyInfo.cs
+C:/Users/PC/OneDrive/Escritorio/proyecto/UserStory-StoreManagement-1/StoreManagement.Infrastructure/obj/Debug/net8.0/StoreManagement.Infrastructure.csproj.CoreCompileInputs.cache
+C:/Users/PC/OneDrive/Escritorio/proyecto/UserStory-StoreManagement-1/StoreManagement.Infrastructure/obj/Debug/net8.0/StoreManagement.Infrastructure.sourcelink.json
+C:/Users/PC/OneDrive/Escritorio/proyecto/UserStory-StoreManagement-1/StoreManagement.Infrastructure/obj/Debug/net8.0/StoreMan.78655C4E.Up2Date
+C:/Users/PC/OneDrive/Escritorio/proyecto/UserStory-StoreManagement-1/StoreManagement.Infrastructure/obj/Debug/net8.0/StoreManagement.Infrastructure.dll
+C:/Users/PC/OneDrive/Escritorio/proyecto/UserStory-StoreManagement-1/StoreManagement.Infrastructure/obj/Debug/net8.0/refint/StoreManagement.Infrastructure.dll
+C:/Users/PC/OneDrive/Escritorio/proyecto/UserStory-StoreManagement-1/StoreManagement.Infrastructure/obj/Debug/net8.0/StoreManagement.Infrastructure.pdb
+C:/Users/PC/OneDrive/Escritorio/proyecto/UserStory-StoreManagement-1/StoreManagement.Infrastructure/obj/Debug/net8.0/StoreManagement.Infrastructure.genruntimeconfig.cache
+C:/Users/PC/OneDrive/Escritorio/proyecto/UserStory-StoreManagement-1/StoreManagement.Infrastructure/obj/Debug/net8.0/ref/StoreManagement.Infrastructure.dll
+/home/walker-cohorte4/Documentos/C# WInDWalker/UserStory-StoreManagement-1/StoreManagement.Infrastructure/bin/Debug/net8.0/StoreManagement.Infrastructure.deps.json
+/home/walker-cohorte4/Documentos/C# WInDWalker/UserStory-StoreManagement-1/StoreManagement.Infrastructure/bin/Debug/net8.0/StoreManagement.Infrastructure.runtimeconfig.json
+/home/walker-cohorte4/Documentos/C# WInDWalker/UserStory-StoreManagement-1/StoreManagement.Infrastructure/bin/Debug/net8.0/StoreManagement.Infrastructure.dll
+/home/walker-cohorte4/Documentos/C# WInDWalker/UserStory-StoreManagement-1/StoreManagement.Infrastructure/bin/Debug/net8.0/StoreManagement.Infrastructure.pdb
+/home/walker-cohorte4/Documentos/C# WInDWalker/UserStory-StoreManagement-1/StoreManagement.Infrastructure/bin/Debug/net8.0/StoreManagement.Domain.dll
+/home/walker-cohorte4/Documentos/C# WInDWalker/UserStory-StoreManagement-1/StoreManagement.Infrastructure/bin/Debug/net8.0/StoreManagement.Domain.pdb
+/home/walker-cohorte4/Documentos/C# WInDWalker/UserStory-StoreManagement-1/StoreManagement.Infrastructure/obj/Debug/net8.0/StoreManagement.Infrastructure.csproj.AssemblyReference.cache
+/home/walker-cohorte4/Documentos/C# WInDWalker/UserStory-StoreManagement-1/StoreManagement.Infrastructure/obj/Debug/net8.0/StoreManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/walker-cohorte4/Documentos/C# WInDWalker/UserStory-StoreManagement-1/StoreManagement.Infrastructure/obj/Debug/net8.0/StoreManagement.Infrastructure.AssemblyInfoInputs.cache
+/home/walker-cohorte4/Documentos/C# WInDWalker/UserStory-StoreManagement-1/StoreManagement.Infrastructure/obj/Debug/net8.0/StoreManagement.Infrastructure.AssemblyInfo.cs
+/home/walker-cohorte4/Documentos/C# WInDWalker/UserStory-StoreManagement-1/StoreManagement.Infrastructure/obj/Debug/net8.0/StoreManagement.Infrastructure.csproj.CoreCompileInputs.cache
+/home/walker-cohorte4/Documentos/C# WInDWalker/UserStory-StoreManagement-1/StoreManagement.Infrastructure/obj/Debug/net8.0/StoreManagement.Infrastructure.sourcelink.json
+/home/walker-cohorte4/Documentos/C# WInDWalker/UserStory-StoreManagement-1/StoreManagement.Infrastructure/obj/Debug/net8.0/StoreManagement.Infrastructure.csproj.CopyComplete
+/home/walker-cohorte4/Documentos/C# WInDWalker/UserStory-StoreManagement-1/StoreManagement.Infrastructure/obj/Debug/net8.0/StoreManagement.Infrastructure.dll
+/home/walker-cohorte4/Documentos/C# WInDWalker/UserStory-StoreManagement-1/StoreManagement.Infrastructure/obj/Debug/net8.0/refint/StoreManagement.Infrastructure.dll
+/home/walker-cohorte4/Documentos/C# WInDWalker/UserStory-StoreManagement-1/StoreManagement.Infrastructure/obj/Debug/net8.0/StoreManagement.Infrastructure.pdb
+/home/walker-cohorte4/Documentos/C# WInDWalker/UserStory-StoreManagement-1/StoreManagement.Infrastructure/obj/Debug/net8.0/StoreManagement.Infrastructure.genruntimeconfig.cache
+/home/walker-cohorte4/Documentos/C# WInDWalker/UserStory-StoreManagement-1/StoreManagement.Infrastructure/obj/Debug/net8.0/ref/StoreManagement.Infrastructure.dll
